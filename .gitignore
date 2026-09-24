@@ -1,0 +1,8 @@
+﻿# Whitelist: only scripts, README and its images are tracked.
+# No CAD files (STEP) or results (STL / JSON / NPZ).
+*
+!.gitignore
+!*.py
+!README.md
+!*.png
+__pycache__/
