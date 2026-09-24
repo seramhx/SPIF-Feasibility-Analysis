@@ -12,7 +12,7 @@ per-face forming-force estimation.
 
 Formability / Wall angle limit: single-pass 3-axis, multi-pass 3-axis (discrete color per pass count), single-pass 5-axis.
 
-![Formability example](formability.png)
+![Formability example](formability2.png)
 
 ---
 
