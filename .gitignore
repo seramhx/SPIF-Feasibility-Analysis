@@ -6,3 +6,4 @@
 !README.md
 !*.png
 __pycache__/
+!benchmark2.STEP
